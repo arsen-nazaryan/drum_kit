@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   justify-content: center;
   background-color: #e0e0e0;
-  background-image: url("/media/cover.png");
+  background-image: url("../media/cover.png");
   background-size: 50vh auto;
   background-repeat: no-repeat;
   background-position: center top;
@@ -130,28 +130,28 @@ small {
 }
 
 .key[data-key="65"]::before {
-  background-image: url("/media/icons/clap.png");
+  background-image: url("../media/icons/clap.png");
 }
 .key[data-key="83"]::before {
-  background-image: url("/media/icons/snare.png");
+  background-image: url("../media/icons/snare.png");
 }
 .key[data-key="68"]::before {
-  background-image: url("/media/icons/kick.png");
+  background-image: url("../media/icons/kick.png");
 }
 .key[data-key="70"]::before {
-  background-image: url("/media/icons/hihat.png");
+  background-image: url("../media/icons/hihat.png");
 }
 .key[data-key="74"]::before {
-  background-image: url("/media/icons/boom.png");
+  background-image: url("../media/icons/boom.png");
 }
 .key[data-key="75"]::before {
-  background-image: url("/media/icons/tom.png");
+  background-image: url("../media/icons/tom.png");
 }
 .key[data-key="76"]::before {
-  background-image: url("/media/icons/tink.png");
+  background-image: url("../media/icons/tink.png");
 }
 .key[data-key="186"]::before {
-  background-image: url("/media/icons/openhat.png");
+  background-image: url("../media/icons/openhat.png");
 }
 
 @media only screen and (max-width: 768px) {
